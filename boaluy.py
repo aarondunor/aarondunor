@@ -1,1 +1,3 @@
-print("hello world")
+university = "Nanhua"
+name = "Dunor"
+print(name + " , at " + university + " University")
